@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello  How can I help you today?"
+  },
+  {
+    "role": "user",
+    "content": "what is sunbeam"
+  },
+  {
+    "role": "assistant",
+    "content": "SunBeam Institute of Information Technology, located at Rajiv Gandhi Infotech Park Hinjawadi within the C-DAC campus spread over an area of 1 acre with built-up space for teaching and learning facilities such as lecture halls, computer labs equipped with high-speed Internet connectivity, seminar room, conference rooms. The institute offers CDAC ACTS IT courses (Aptitude Duration: 30 hours) in MERN Stack Development (Full-Stack DEVELOPMENT duration: 40 hours)."
+  }
+]
